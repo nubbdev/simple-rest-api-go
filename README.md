@@ -31,4 +31,4 @@ wait, then
 ```
 . ./yourAppOnDirectory.exe
 ```
-Happy coding
+Happy coding ༼ つ ◕_◕ ༽つ
